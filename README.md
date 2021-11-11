@@ -23,11 +23,11 @@ Language - Python
 Steps to run the file:
 
 Open the given url for dataset and select the following field,
-                                       district => “Agra” 
-                                       Price/Arrivals => Choose Price
-                                       Commodity => Potato
-                                       state    =>   “Uttar Pradesh” 
-                                       date from jan 2020 to dec 2020 
+                                       district => “Agra” , 
+                                       Price/Arrivals => Choose Price, 
+                                       Commodity => Potato, 
+                                       state    =>   “Uttar Pradesh” , 
+                                       date from jan 2020 to dec 2020 , 
                                        (Note:- Don't choose market)
 
 Download the data from the url mentioned above(click to 'Export to excel').
